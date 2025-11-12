@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankingProgram/BankingProgram.iml" filepath="$PROJECT_DIR$/BankingProgram/BankingProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beginner Java projects.iml" filepath="$PROJECT_DIR$/Beginner Java projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiceRollingProgram/DiceRollingProgram.iml" filepath="$PROJECT_DIR$/DiceRollingProgram/DiceRollingProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberGuessing/NumberGuessing.iml" filepath="$PROJECT_DIR$/NumberGuessing/NumberGuessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemparatureConverter/TemparatureConverter.iml" filepath="$PROJECT_DIR$/TemparatureConverter/TemparatureConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeightConverter/WeightConverter.iml" filepath="$PROJECT_DIR$/WeightConverter/WeightConverter.iml" />
+    </modules>
+  </component>
+</project>
